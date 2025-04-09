@@ -11,7 +11,7 @@ class Lion extends Animal{
         System.out.println("Lion roars......");  
     }
 }
-class main{
+class Main{
     public static void main(String[] args){
         Tiger t=new Tiger();
         t.sound();
